@@ -15,3 +15,4 @@ whashington.csv
 
 ### Credits
 I would like to give a credit to the reviewer who reviewed my project and gave me a good feedback to enhance and pass the project and the great material on udacity.
+I would like to give a credit to alrajhi academy for giving me the chance to enroll for this nano-degree
