@@ -14,4 +14,4 @@ chicago.csv
 whashington.csv
 
 ### Credits
-I would like to give a credit to the reviewer who reviewed my project and gave me a good feedback to enhance and pass the project.
+I would like to give a credit to the reviewer who reviewed my project and gave me a good feedback to enhance and pass the project and the great material on udacity.
