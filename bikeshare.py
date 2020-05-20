@@ -181,7 +181,7 @@ def user_stats(df):
         print("\n Gender Types:\n", gender_types)
     except KeyError:
         print("\n Gender Types:\n no data available")
-
+    # except keyerror is used to handel washington which has no gender_types 
 
     # TO DO: Display earliest, most recent, and most common year of birth
     
@@ -222,7 +222,7 @@ def display_data(df):
     return
         
 
-
+#ask the user if want to see raw data . user choose yes will display 5 lines of row data and whenever click yes it will show again 5 more lines of row data, until the user choose no. 
 def main():
     while True:
         city, month, day = get_filters()
