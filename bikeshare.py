@@ -181,7 +181,7 @@ def user_stats(df):
         print("\n Gender Types:\n", gender_types)
     except KeyError:
         print("\n Gender Types:\n no data available")
-
+    # except keyerror is used to handel washington which has no gender_types 
 
     # TO DO: Display earliest, most recent, and most common year of birth
     
