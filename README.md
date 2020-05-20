@@ -5,7 +5,7 @@ date 5/20/2020
 bikeshare
 
 ### Description
-It analysis the bikeshare data in the cities ( new york city, chicago and whashington) and it displays a different results such as different hours, months, genders and year of birth.
+It analysis the bikeshare data in the cities ( New York City, Chicago and Washington) and it displays a different results such as different hours, months, genders and year of birth.
 
 ### Files used
 bikeshare.py
