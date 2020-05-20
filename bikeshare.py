@@ -222,7 +222,7 @@ def display_data(df):
     return
         
 
-
+#ask the user if want to see raw data . user choose yes will display 5 lines of row data and whenever click yes it will show again 5 more lines of row data, until the user choose no. 
 def main():
     while True:
         city, month, day = get_filters()
