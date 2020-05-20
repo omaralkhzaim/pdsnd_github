@@ -1,5 +1,5 @@
 ### Date created
-5/20/2020
+date 5/20/2020
 
 ### Project Title
 bikeshare
@@ -14,4 +14,4 @@ chicago.csv
 whashington.csv
 
 ### Credits
-I would like to give a credit to the reviewer who reviewed my project and gave me a good feedback to enhance and pass the project. 
+I would like to give a credit to the reviewer who reviewed my project and gave me a good feedback to enhance and pass the project.
